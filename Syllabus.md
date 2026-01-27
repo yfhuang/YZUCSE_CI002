@@ -1,4 +1,4 @@
-# C++ Programming Laboratory: Syllabus
+# CI002 A3: C++ Programming Laboratory - Syllabus
 
 ## Policies
 
@@ -46,7 +46,15 @@ Students are required to commit all on-site practice exercises to their personal
 - **Final exam** (20%)
 - **After class GitHub commit** (20%)
 
-## Online Resources
+## References
+
+### Books
+- Halim, Steven; Halim, Felix; Effendy, Suhendry. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s, Book 1*. 1st ed. Lulu Press, Inc., 2018.
+- Halim, Steven; Halim, Felix; Effendy, Suhendry. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s, Book 2*. 1st ed. Lulu Press, Inc., 2020.
+- 劉邦鋒（Pangfeng Liu）. *由重構學習 C++ 程式設計*. 國立臺灣大學出版中心, 2023.
+- Dale, Nell; Weems, Chip. *C++ Plus Data Structures*. 6th ed. Jones & Bartlett Learning, 2016.
+
+### Online Resources
  - [The Algorithms](https://github.com/TheAlgorithms)
  - [C Programming with Idioms (2nd Edition)](https://github.com/pangfengliu/C-programming-with-idioms-2nd-edition)
  - [C++ Refactor](https://github.com/pangfengliu/Cplusplus-refactor)

@@ -79,7 +79,7 @@ Prepare the following links for submission:
 - Your GitHub Pages URL: `https://<username>.github.io/...`
 
 Submit using the course form (if provided by your instructor):  
-https://forms.office.com/r/B8CUxDCyXS
+https://forms.office.com/r/Z2znjn0DAS?origin=lprLink
 
 ---
 

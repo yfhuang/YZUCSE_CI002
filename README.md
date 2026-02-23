@@ -21,7 +21,8 @@ This course provides students with hands-on experience in a CPE-like environment
 - **Contact:** [Yu-Feng Huang](mailto:yfhuang@saturn.yzu.edu.tw)  
 - **Teaching Assistant:** To be announced  
 - **Office Hours:** 
-    - TBD
+    - Monday: 13:00~15:00 (YZ Building I, R1310)
+    - Wednesday: 14:00~16:00 (YZ Building I, R1310)
 
 ## Syllabus   
 Noted: Students are required to read the [syllabus](./Syllabus.md) carefully. Please be aware that the course schedule may be adjusted depending on the study progress.

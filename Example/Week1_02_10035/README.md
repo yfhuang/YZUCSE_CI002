@@ -5,7 +5,7 @@
 Brief description of the problem here. [Link to problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=976)
 
 ## Learning Objectives
-- [ ] Understand the 3n+1 conjecture
+- [ ] Understand the Primary Arithmetic conjecture
 - [ ] Implement iterative logic
 - [ ] Practice input/output handling in C++
 

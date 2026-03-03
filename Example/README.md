@@ -7,7 +7,7 @@ This section tracks weekly programming exercises designed to reinforce core algo
 | Week | Class date | Theme (Planned) | Easy | Medium |
 |------|------------|--------------------------------------------------|---------------------------------------|------------------------------------------|
 | 1  | 2026/02/24 | I/O, EOF, absolute difference                    | [UVa 100 — 3n + 1](./Week1_01_100/) | [UVa 10035 — Primary Arithmetic](./Week1_02_10035/) |
-| 2  | 2026/03/03 | Strings, formatting                              | | |
+| 2  | 2026/03/03 | Strings, formatting                              | [UVa 272 – Tex Quotes](https://onlinejudge.org/external/2/272.pdf) | [UVa 490 – Rotating Sentences](https://onlinejudge.org/external/4/490.pdf) |
 | 3  | 2026/03/10 | Math + corner cases                              | | |
 | 4  | 2026/03/17 | Arrays + simulation                              | | |
 | 5  | 2026/03/24 | Sorting basics + inversion mindset               | | |

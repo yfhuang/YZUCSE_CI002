@@ -2,7 +2,7 @@
 
 ## Policies
 
-### On-Site Practice
+### On-Site Examination
 - No cheating is allowed during practice sessions
 - Students must follow the same rules and procedures as in CPE class
 - All work must be completed individually during class time

@@ -27,8 +27,3 @@ This course provides students with hands-on experience in a CPE-like environment
 ## Syllabus   
 Noted: Students are required to read the [syllabus](./Syllabus.md) carefully. Please be aware that the course schedule may be adjusted depending on the study progress.
 
-## On-site Examination Policy
-
-Students are required to bring valid identification and arrive 10 minutes before the examination starts. Only approved calculators and writing materials are permitted. Electronic devices (phones, smartwatches, etc.) must be turned off and stored away. Any form of academic dishonesty will result in a zero grade and disciplinary action per university policy.
-
-For detailed examination guidelines, please review the [On-site Examination Policy](./On-SiteExamPolicy.md).

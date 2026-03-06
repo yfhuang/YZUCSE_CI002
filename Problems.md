@@ -8,7 +8,7 @@ This document tracks weekly problem assignments for an on-site examination prepa
 |------|------|-------|--------------|--------------|----------------|------------------|-------------------|
 | 1 | 2026/02/24 | I/O, EOF, absolute difference | — | [UVa 100 – 3n+1](https://onlinejudge.org/external/1/100.pdf) | [UVa 10035 – Primary Arithmetic](https://onlinejudge.org/external/100/10035.pdf) | [LeetCode 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [LeetCode 8. String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 2 | 2026/03/03 | Strings, formatting | — | [UVa 272 – Tex Quotes](https://onlinejudge.org/external/2/272.pdf) | [UVa 490 – Rotating Sentences](https://onlinejudge.org/external/4/490.pdf) | [LeetCode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [LeetCode 6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |
-| 3 | 2026/03/10 | Math + corner cases | — | — | — | — | — |
+| 3 | 2026/03/10 | Math + corner cases | [231 — Power of Two](https://leetcode.com/problems/power-of-two/description/) | — | — | — | — |
 | 4 | 2026/03/17 | Arrays + simulation | — | — | — | — | — |
 | 5 | 2026/03/24 | Sorting basics | — | — | — | — | — |
 | 6 | 2026/03/31 | Median / order statistics | — | — | — | — | — |

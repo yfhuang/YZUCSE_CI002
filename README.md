@@ -27,3 +27,5 @@ This course provides students with hands-on experience in a CPE-like environment
 ## Syllabus   
 Noted: Students are required to read the [syllabus](./Syllabus.md) carefully. Please be aware that the course schedule may be adjusted depending on the study progress.
 
+## Assignments
+Please refer to [the assignment guide](./Assignment/README.md) for the latest assignment requirements, checkpoints, and deadlines.

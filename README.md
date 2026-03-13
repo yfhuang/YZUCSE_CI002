@@ -29,3 +29,6 @@ Noted: Students are required to read the [syllabus](./Syllabus.md) carefully. Pl
 
 ## Assignments
 Please refer to [the assignment guide](./Assignment/README.md) for the latest assignment requirements, checkpoints, and deadlines.
+
+# Problems
+Please refer to [Problems.md](./Problems.md) for the selected problem set. Problems are primarily chosen from UVa Online Judge and LeetCode to strengthen problem analysis, algorithm design, and C++ implementation skills in a CPE-like practice environment. Topics and difficulty levels may be adjusted according to course progress.

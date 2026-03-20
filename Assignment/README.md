@@ -16,6 +16,7 @@ This folder contains the deliverables for the CI002 C++ Programming Laboratory a
 - Place each problem in the correct weekly folder using the required naming format shown in the assignment instructions.
 - Keep the original source code in every `src` directory.
 - In each problem folder, write a `README.md` that explains the solution idea and any relevant notes.
+- Follow the [README.md template](./AssignmentII/README_template.md) to compose the `README.md` for each examination and practice.
 - Make sure the final archive is complete, clearly structured, and ready for submission.
 
 **Checkpoints:**

@@ -52,3 +52,10 @@ This assignment requires the archiving of all developed code from the semester, 
 │       └── src
 └── README.md
 ```
+
+## Requirements
+
+- Use the [README.md template](./README_template.md) to describe your problem-solving logic and solution strategy for each examination and practice.
+- Upload the final version of your in-class code to the corresponding `src` directory.
+- If your submission does not pass, revise the code and upload the corrected version to the same `src` directory.
+

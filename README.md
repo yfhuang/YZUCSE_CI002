@@ -39,10 +39,11 @@ This course provides students with hands-on experience in a CPE-like environment
 ## Course Materials
 
 - [Syllabus](./Syllabus.md): Course schedule, weekly topics, and grading information.
+- [On-Site Examination Policy](./On-SiteExamPolicy.md): Rules and expectations for in-class examinations.
 - [Assignments](./Assignment/README.md): Assignment requirements, checkpoints, and deadlines.
 - [Problems](./Problems.md): Selected UVa and LeetCode problems used for class practice.
-- [CPE One-Star Problem List](./CPEoneStar.md): Reference list of commonly used CPE one-star problems.
-- [On-Site Examination Policy](./On-SiteExamPolicy.md): Rules and expectations for in-class examinations.
+- [CPE One-Star Problem List](./CPE/CPEoneStar.md): Reference list of commonly used CPE one-star problems.
+- [CPE History Exams](./CPE/CPEHistory.md): Historical CPE exam sessions with linked UVa problem sets.
 
 ## Repository Guide
 

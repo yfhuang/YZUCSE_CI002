@@ -16,6 +16,8 @@ This laboratory course focuses on developing practical C++ programming skills th
 
 This course provides students with hands-on experience in a CPE-like environment, allowing them to practice coding exercises on-site. This simulated examination setting helps students become familiar with the testing conditions and builds confidence in solving problems under time pressure.
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Course Information  
 - **Course Title:** C++ Programming (Laboratory)  
 - **Course Code:** CI002 A3  
@@ -32,6 +34,8 @@ This course provides students with hands-on experience in a CPE-like environment
     - Monday: 13:00~15:00 (YZ Building I, R1310)
     - Wednesday: 14:00~16:00 (YZ Building I, R1310)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Course Materials
 
 - [Syllabus](./Syllabus.md): Course schedule, weekly topics, and grading information.
@@ -45,3 +49,5 @@ This course provides students with hands-on experience in a CPE-like environment
 - [Assignment](./Assignment/README.md): Programming assignments and submission guidance.
 - [Example](./Example/README.md): Before-class, after-class, and on-site practice examples.
 - [Supplement](./Supplement/README.md): Additional learning materials and references.
+
+[Back to Table of Contents](#table-of-contents)

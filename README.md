@@ -1,10 +1,18 @@
 # CI002 A3: C++ Programming Laboratory
 
-## Course Description   
+## Table of Contents
+
+- [Course Overview](#course-overview)
+- [Why This Course Matters](#why-this-course-matters)
+- [Course Information](#course-information)
+- [Course Materials](#course-materials)
+- [Repository Guide](#repository-guide)
+
+## Course Overview
 
 This laboratory course focuses on developing practical C++ programming skills through intensive problem-solving practice. Students will work on carefully selected problems from UVa Online Judge and LeetCode platforms to strengthen their algorithmic thinking and coding proficiency. The primary objective is to prepare students for the Collegiate Programming Examination (CPE), equipping them with the necessary skills to analyze problems, design efficient solutions, and implement robust C++ code under time constraints.
 
-## Importance
+## Why This Course Matters
 
 This course provides students with hands-on experience in a CPE-like environment, allowing them to practice coding exercises on-site. This simulated examination setting helps students become familiar with the testing conditions and builds confidence in solving problems under time pressure.
 
@@ -24,11 +32,16 @@ This course provides students with hands-on experience in a CPE-like environment
     - Monday: 13:00~15:00 (YZ Building I, R1310)
     - Wednesday: 14:00~16:00 (YZ Building I, R1310)
 
-## Syllabus   
-Noted: Students are required to read the [syllabus](./Syllabus.md) carefully. Please be aware that the course schedule may be adjusted depending on the study progress.
+## Course Materials
 
-## Assignments
-Please refer to [the assignment guide](./Assignment/README.md) for the latest assignment requirements, checkpoints, and deadlines.
+- [Syllabus](./Syllabus.md): Course schedule, weekly topics, and grading information.
+- [Assignments](./Assignment/README.md): Assignment requirements, checkpoints, and deadlines.
+- [Problems](./Problems.md): Selected UVa and LeetCode problems used for class practice.
+- [CPE One-Star Problem List](./CPEoneStar.md): Reference list of commonly used CPE one-star problems.
+- [On-Site Examination Policy](./On-SiteExamPolicy.md): Rules and expectations for in-class examinations.
 
-## Problems
-Please refer to [Problems.md](./Problems.md) for the selected problem set. Problems are primarily chosen from UVa Online Judge and LeetCode to strengthen problem analysis, algorithm design, and C++ implementation skills in a CPE-like practice environment. Topics and difficulty levels may be adjusted according to course progress.
+## Repository Guide
+
+- [Assignment](./Assignment/README.md): Programming assignments and submission guidance.
+- [Example](./Example/README.md): Before-class, after-class, and on-site practice examples.
+- [Supplement](./Supplement/README.md): Additional learning materials and references.

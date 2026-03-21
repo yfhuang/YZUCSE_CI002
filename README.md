@@ -28,8 +28,10 @@ This course provides students with hands-on experience in a CPE-like environment
 - **Instructor:** Yu-Feng Huang  
 - **Course Time(Classroom):** 
     - Tuesaday 10:00 ~ 12:00 (YZ Building I, R1008)
-- **Contact:** [Yu-Feng Huang](mailto:yfhuang@saturn.yzu.edu.tw)  
-- **Teaching Assistant:** To be announced  
+- **Contact:** [Yu-Feng Huang, Ph.D.](mailto:yfhuang@saturn.yzu.edu.tw)  
+- **Teaching Assistant:**
+    - [Chih-Yang Chien](s1111537@mail.yzu.edu.tw)
+    - [Chih-Ying Chou](mailto:s1146075@mail.yzu.edu.tw)
 - **Office Hours:** 
     - Monday: 13:00~15:00 (YZ Building I, R1310)
     - Wednesday: 14:00~16:00 (YZ Building I, R1310)

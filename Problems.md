@@ -13,7 +13,7 @@ This document tracks weekly problem assignments for an on-site examination prepa
 | 5 | 2026/03/24 | Sorting basics | [LeetCode: 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [LeetCode: 179. Largest Number](https://leetcode.com/problems/largest-number/description/) | [UVa 299 – Train Swapping](https://onlinejudge.org/external/2/299.pdf) | [UVa 10008 - What’s Cryptanalysis](https://onlinejudge.org/external/100/10008.pdf) | [UVa 10420 - List of Conquests](https://onlinejudge.org/external/104/10420.pdf) | [UVa 11136 - Hoax or what](https://onlinejudge.org/external/111/11136.pdf) | [LeetCode: 349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [LeetCode: 148. Sort List](https://leetcode.com/problems/sort-list/description/) |
 | 6 | 2026/03/31 | Median / order statistics | [LeetCode: 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [LeetCode: 658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [UVa 10931 – Parity](https://onlinejudge.org/external/109/10931.pdf) | [UVa 10062 – Tell me the frequencies](https://onlinejudge.org/external/100/10062.pdf) | [UVa 10107 - What is the Median?](https://onlinejudge.org/external/101/10107.pdf) | [UVa 501 - Black Box](https://onlinejudge.org/external/5/501.pdf) | [LeetCode: 1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [LeetCode: 378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |
 | 7 | 2026/04/07 | Binary search | [LeetCode: 704. Binary Search](https://leetcode.com/problems/binary-search/description/) | [LeetCode: 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [UVa 11063 - B2-Sequence](https://onlinejudge.org/external/110/11063.pdf) | [UVa 10474 - Where is the Marble?](https://onlinejudge.org/external/104/10474.pdf) | [UVa 11413 - Fill the Containers](https://onlinejudge.org/external/114/11413.pdf) | [UVa 10341 - Solve It](https://onlinejudge.org/external/103/10341.pdf) | [LeetCode: 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [LeetCode: 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
-| 8 | 2026/04/14 | Midterm mock | — | — | — | — | — | — | — | — |
+| 8 | 2026/04/14 | Midterm | — | — | — | — | — | — | — | — |
 | 9 | 2026/04/21 | Prefix sums / difference arrays | [LeetCode: 724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [LeetCode: 1109. Corporate Flight Bookings](https://leetcode.com/problems/find-pivot-index/description/) | — | — | — | — | — | — |
 | 10 | 2026/04/28 | Graph traversal (BFS/DFS) | — | — | — | — | — | — | — | — |
 | 11 | 2026/05/05 | Shortest paths (Dijkstra) | — | — | — | — | — | — | — | — |
@@ -24,3 +24,21 @@ This document tracks weekly problem assignments for an on-site examination prepa
 | 16 | 2026/06/09 | DP I | — | — | — | — | — | — | — | — |
 | 17 | 2026/06/16 | DP II | — | — | — | — | — | — | — | — |
 | 18 | 2026/06/23 | Final mock | — | — | — | — | — | — | — | — |
+
+## Midterm
+
+The midterm takes place in Week 8.
+
+### Regular Problems (30 points each)
+
+1. [UVa 10931 - Parity](https://onlinejudge.org/external/109/10931.pdf)
+2. [UVa 12250 - Language Detection](https://onlinejudge.org/external/122/12250.pdf)
+3. [UVa 11332 - Summing Digits](https://onlinejudge.org/external/113/11332.pdf)
+4. [UVa 11461 - Square Numbers](https://onlinejudge.org/external/114/11461.pdf)
+
+### Bonus Problems (40 points each)
+
+5. [UVa 11321 - Sort! Sort!! And Sort!!!](https://onlinejudge.org/external/113/11321.pdf)
+6. [UVa 10810 - Ultra-QuickSort](https://onlinejudge.org/external/108/10810.pdf)
+7. [UVa 10226 - Hardwood Species](https://onlinejudge.org/external/102/10226.pdf)
+

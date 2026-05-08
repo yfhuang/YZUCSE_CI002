@@ -10,5 +10,5 @@ Remember: The goal is to deepen your understanding and develop your programming 
 
 ## Resources
 
-- [On-Site Examination Code Evaluation Prompt Template](./Template.md) - A reusable prompt template for reviewing your UVa/CPE-style on-site examination code
+- [On-Site Examination Code Evaluation Prompt Template](./PromptTemplate.md) - A reusable prompt template for reviewing your UVa/CPE-style on-site examination code
 

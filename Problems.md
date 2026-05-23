@@ -23,7 +23,7 @@ This document tracks weekly problem assignments for an on-site examination prepa
 | 15 | 2026/06/02 | Intervals + booking | — | — | — | — | — | — | — | — |
 | 16 | 2026/06/09 | Final Exam | [Refer to Final Exam Section](#final) ||||||||
 | 17 | 2026/06/16 | Greedy + arrangement | — | — | — | — | — | — | — | — |
-| 18 | 2026/06/23 | DP | — | — | — | — | — | — | — | — |
+| 18 | 2026/06/23 | Dynamic programming | — | — | — | — | — | — | — | — |
 
 ## Midterm
 

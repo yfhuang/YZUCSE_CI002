@@ -19,9 +19,9 @@ This document tracks weekly problem assignments for an on-site examination prepa
 | 11 | 2026/05/05 | Queue | [LeetCode: 1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) | [LeetCode: 950. Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) | [UVa 10935 - Throwing cards away](https://onlinejudge.org/external/109/10935.pdf) | [UVa 540 - Team Queue](https://onlinejudge.org/external/5/540.pdf) | [UVa 12207 - That is Your Queue](https://onlinejudge.org/external/122/12207.pdf) | [UVa 11988 – Broken Keyboard](https://onlinejudge.org/external/119/111988.pdf) | [LeetCode: 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [LeetCode: 641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |
 | 12 | 2026/05/12 | Binary Search Tree | [LeetCode: 1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | [LeetCode: 110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [UVa 11615 - Family Tree](https://onlinejudge.org/external/116/11615.pdf) | [UVa 679 - Dropping Balls](https://onlinejudge.org/external/6/679.pdf) | [UVa 12347 - Binary Search Tree](https://onlinejudge.org/external/123/12347.pdf) | [UVa 10821 - Constructing BST](https://onlinejudge.org/external/108/10821.pdf) | [LeetCode: 222 - Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [LeetCode: 1022 - Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |
 | 13 | 2026/05/19 | Dynamic programming with 2D array | [LeetCode: 62 - Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [LeetCode: 64 - Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [UVa 10189 - Minesweeper](https://onlinejudge.org/external/101/10189.pdf) | [UVa 11349 - Symmetric Matrix](https://onlinejudge.org/external/113/11349.pdf) | [UVa 11450 - Wedding Shopping](https://onlinejudge.org/external/114/11450.pdf) | [UVa 10405 - Longest Common Subsequence](https://onlinejudge.org/external/104/10405.pdf) | [LeetCode: 63 - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [LeetCode: 1143 - Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |
-| 14 | 2026/05/26 | Heaps + seat reservation | [LeetCode: 1046 – Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [LeetCode: 1845 – Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/) | — | — | — | — | — | — |
+| 14 | 2026/05/26 | Heaps + seat reservation + set | [LeetCode: 1046 – Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [LeetCode: 1845 – Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/) | — | — | — | — | — | — |
 | 15 | 2026/06/02 | Intervals + booking | — | — | — | — | — | — | — | — |
-| 16 | 2026/06/09 | Final Exam | — | — | — | — | — | — | — | — |
+| 16 | 2026/06/09 | Final Exam | [Refer to Final Exam Section](#final) ||||||||
 | 17 | 2026/06/16 | Greedy + arrangement | — | — | — | — | — | — | — | — |
 | 18 | 2026/06/23 | DP | — | — | — | — | — | — | — | — |
 
@@ -42,3 +42,12 @@ The midterm takes place in Week 8.
 6. [UVa 10810 - Ultra-QuickSort](https://onlinejudge.org/external/108/10810.pdf)
 7. [UVa 10226 - Hardwood Species](https://onlinejudge.org/external/102/10226.pdf)
 
+## Final
+
+The final exam will take place in Week 16.
+
+### Regular Problems (30 points each)
+ - TBD
+
+### Bonus Problems (40 points each)
+ - TBD

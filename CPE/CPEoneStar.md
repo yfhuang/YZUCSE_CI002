@@ -4,7 +4,7 @@ This document lists common CPE one-star problems by topic, along with their corr
 
 | No. | Category | Problem Title | CPE ID | UVa ID | On-site Week |
 |---:|---|---|---|---|---|
-| 1 | Basic Problems | Vito's family | CPE10406 | [10041](https://onlinejudge.org/external/100/10041.pdf) | — |
+| 1 | Basic Problems | Vito's family | CPE10406 | [10041](https://onlinejudge.org/external/100/10041.pdf) | 14 |
 | 2 | Basic Problems | Hashmat the brave warrior | CPE10407 | [10055](https://onlinejudge.org/external/100/10055.pdf) | — |
 | 3 | Basic Problems | Primary Arithmetic | CPE10404 | [10035](https://onlinejudge.org/external/100/10035.pdf) | 1 |
 | 4 | Basic Problems | The 3n + 1 problem | CPE10400 | [100](https://onlinejudge.org/external/1/100.pdf) | 1 |
@@ -14,7 +14,7 @@ This document lists common CPE one-star problems by topic, along with their corr
 | 8 | Characters and Strings | What's Cryptanalysis? | CPE10402 | [10008](https://onlinejudge.org/external/100/10008.pdf) | 5 |
 | 9 | Characters and Strings | Decode the Mad man | CPE10425 | [10222](https://onlinejudge.org/external/102/10222.pdf) | — |
 | 10 | Characters and Strings | Problem J: Summing Digits | CPE10473 | [11332](https://onlinejudge.org/external/113/11332.pdf) | 8 (Midterm) |
-| 11 | Characters and Strings | Common Permutation | CPE10567 | [10252](https://onlinejudge.org/external/102/10252.pdf) | — |
+| 11 | Characters and Strings | Common Permutation | CPE10567 | [10252](https://onlinejudge.org/external/102/10252.pdf) | 14 |
 | 12 | Characters and Strings | Rotating Sentences | CPE21914 | [490](https://onlinejudge.org/external/4/490.pdf) | 2 |
 | 13 | Characters and Strings | TeX Quotes | CPE22131 | [272](https://onlinejudge.org/external/2/272.pdf) | 2 |
 | 14 | Mathematical Computation | A - Doom's Day Algorithm | CPE22801 | [12019](https://onlinejudge.org/external/120/12019.pdf) | — |
@@ -24,7 +24,7 @@ This document lists common CPE one-star problems by topic, along with their corr
 | 18 | Mathematical Computation | 498’ | CPE10431 | [10268](https://onlinejudge.org/external/102/10268.pdf) | — |
 | 19 | Mathematical Computation | Odd Sum | CPE10453 | [10783](https://onlinejudge.org/external/107/10783.pdf) | 3 |
 | 20 | Mathematical Computation | Beat the Spread! | CPE10454 | [10812](https://onlinejudge.org/external/108/10812.pdf) | — |
-| 21 | Mathematical Computation | Symmetric Matrix | CPE10478 | [11349](https://onlinejudge.org/external/113/11349.pdf) | — |
+| 21 | Mathematical Computation | Symmetric Matrix | CPE10478 | [11349](https://onlinejudge.org/external/113/11349.pdf) | 13 |
 | 22 | Mathematical Computation | Square Numbers | CPE10480 | [11461](https://onlinejudge.org/external/114/11461.pdf) | 8 (Midterm) |
 | 23 | Mathematical Computation | B2-Sequence | CPE23621 | [11063](https://onlinejudge.org/external/110/11063.pdf) | 7 |
 | 24 | Mathematical Computation | Back to High School Physics | CPE10411 | [10071](https://onlinejudge.org/external/100/10071.pdf) | — |
@@ -47,7 +47,7 @@ This document lists common CPE one-star problems by topic, along with their corr
 | 41 | Sorting and Median | Tell me the frequencies! | CPE10410 | [10062](https://onlinejudge.org/external/100/10062.pdf) | 6 |
 | 42 | Sorting and Median | Train Swapping | CPE22811 | [299](https://onlinejudge.org/external/2/299.pdf) | 5 |
 | 43 | Sorting and Median | Hardwood Species | CPE10426 | [10226](https://onlinejudge.org/external/102/10226.pdf) | 8 (Midterm) |
-| 44 | Simulation | Minesweeper | CPE10418 | [10189](https://onlinejudge.org/external/101/10189.pdf) | — |
+| 44 | Simulation | Minesweeper | CPE10418 | [10189](https://onlinejudge.org/external/101/10189.pdf) | 13 |
 | 45 | Simulation | Die Game | CPE11019 | [10409](https://onlinejudge.org/external/104/10409.pdf) | — |
 | 46 | Simulation | Eb Alto Saxophone Player | CPE11020 | [10415](https://onlinejudge.org/external/104/10415.pdf) | — |
 | 47 | Simulation | Mutant Flatworld Explorers | CPE23641 | [118](https://onlinejudge.org/external/1/118.pdf) | — |

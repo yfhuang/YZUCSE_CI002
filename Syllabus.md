@@ -25,26 +25,26 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 | 2 | 2026/03/03 | Strings, formatting |
 | 3 | 2026/03/10 | Math + corner cases |
 | 4 | 2026/03/17 | Arrays + simulation |
-| 5 | 2026/03/24 | Sorting basics + inversion mindset |
-| 6 | 2026/03/31 | Median / order statistics (bridge to heaps) |
-| 7 | 2026/04/07 | Binary search + frequency counting |
-| 8 | 2026/04/14 | Prefix sums / difference arrays (booking flavor) |
-| 9 | 2026/04/21 | Midterm |
-| 10 | 2026/04/28 | Graph traversal I (BFS/DFS) |
-| 11 | 2026/05/05 | Shortest paths (Dijkstra) |
-| 12 | 2026/05/12 | MST / Union-Find (DSU) |
-| 13 | 2026/05/19 | Heaps + seat reservation system |
-| 14 | 2026/05/26 | Intervals + calendar booking |
-| 15 | 2026/06/02 | Greedy + arrangement problems |
-| 16 | 2026/06/09 | DP I (classic exam & interview bridge) |
-| 17 | 2026/06/16 | DP II (path / state design) |
-| 18 | 2026/06/23 | Final |
+| 5 | 2026/03/24 | Sorting basics |
+| 6 | 2026/03/31 | Median / order statistics |
+| 7 | 2026/04/07 | Binary search |
+| 8 | 2026/04/14 | Midterm |
+| 9 | 2026/04/21 | Prefix sums / difference arrays |
+| 10 | 2026/04/28 | Stack |
+| 11 | 2026/05/05 | Queue |
+| 12 | 2026/05/12 | Complete binary tree indexing + binary search tree intro |
+| 13 | 2026/05/19 | 2D array + weak dynamic programming ramp |
+| 14 | 2026/05/26 | Heaps + seat reservation + set |
+| 15 | 2026/06/02 | Intervals + booking |
+| 16 | 2026/06/09 | Final Exam |
+| 17 | 2026/06/16 | Greedy + arrangement |
+| 18 | 2026/06/23 | Dynamic programming (post-final consolidation) |
 
 ## Problem Set
 
 Students work through curated problem lists organized by week and difficulty. See [Problems.md](./Problems.md) for the complete assignment table.
 
-**On-Site Examination:** Two problems per session—one Easy and one Medium—completed during class under exam conditions.
+**On-Site Examination:** Each session centers on one Easy and one Medium on-site problem, with bonus problems included in some weeks in the full plan.
 
 **Before/After Class:** Additional Easy and Medium problems from LeetCode for reinforcement and skill building outside class hours.
 

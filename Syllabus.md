@@ -49,15 +49,15 @@ Students work through curated problem lists organized by week and difficulty. Se
 **Before/After Class:** Additional Easy and Medium problems from LeetCode for reinforcement and skill building outside class hours.
 
 ## Rubric
-- **On-site practices** (40%)
+- **On-site practices** (20%)
     - Two on-site practices each week during class
     - Scoring per practice session:
         - Passed 2 problems: 100 points
         - Passed 1 problem: 70 points
         - Passed 0 problems: 0 points
     - The final on-site practice score is calculated from each student's top 20 practice scores
-- **Midterm exam** (20%)
-- **Final exam** (20%)
+- **Midterm exam** (30%)
+- **Final exam** (30%)
 - **After class GitHub commit** (20%)
 
 ## References

@@ -21,7 +21,7 @@ This document lists common CPE one-star problems by topic, along with their corr
 | 15 | Mathematical Computation | Jolly Jumpers | CPE10405 | [10038](https://onlinejudge.org/external/100/10038.pdf) | — |
 | 16 | Mathematical Computation | What is the Probability!! | CPE10408 | [10056](https://onlinejudge.org/external/100/10056.pdf) | — |
 | 17 | Mathematical Computation | The Hotel with Infinite Rooms | CPE10417 | [10170](https://onlinejudge.org/external/101/10170.pdf) | 3 |
-| 18 | Mathematical Computation | 498’ | CPE10431 | [10268](https://onlinejudge.org/external/102/10268.pdf) | — |
+| 18 | Mathematical Computation | 498-bis | CPE10431 | [10268](https://onlinejudge.org/external/102/10268.pdf) | — |
 | 19 | Mathematical Computation | Odd Sum | CPE10453 | [10783](https://onlinejudge.org/external/107/10783.pdf) | 3 |
 | 20 | Mathematical Computation | Beat the Spread! | CPE10454 | [10812](https://onlinejudge.org/external/108/10812.pdf) | — |
 | 21 | Mathematical Computation | Symmetric Matrix | CPE10478 | [11349](https://onlinejudge.org/external/113/11349.pdf) | 13 |

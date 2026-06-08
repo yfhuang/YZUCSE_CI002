@@ -53,4 +53,10 @@ This course provides students with hands-on experience in a CPE-like environment
 - [Example](./Example/README.md): Before-class, after-class, and on-site practice examples.
 - [Supplement](./Supplement/README.md): Additional learning materials and references.
 
+## AI Disclaimer
+
+This course was co-developed with the assistance of AI tools. AI was used to support drafting, organizing, and refining parts of the course materials.
+
+All final instructional decisions, content selection, and teaching responsibilities remain with the instructor. Students should treat AI-generated content as learning support and always verify technical details through course lectures, official documentation, and independent practice.
+
 [Back to Table of Contents](#table-of-contents)

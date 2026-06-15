@@ -20,9 +20,9 @@ This document tracks weekly problem assignments for an on-site examination prepa
 | 12 | 2026/05/12 | Complete binary tree indexing + binary search tree intro| [LeetCode: 1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | [LeetCode: 110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [UVa 11615 - Family Tree](https://onlinejudge.org/external/116/11615.pdf) | [UVa 679 - Dropping Balls](https://onlinejudge.org/external/6/679.pdf) | [UVa 12347 - Binary Search Tree](https://onlinejudge.org/external/123/12347.pdf) | [UVa 10821 - Constructing BST](https://onlinejudge.org/external/108/10821.pdf) | [LeetCode: 222. - Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [LeetCode: 1022. - Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |
 | 13 | 2026/05/19 | 2D array + weak dynamic programming ramp | [LeetCode: 62. - Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [LeetCode: 64. - Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [UVa 10189 - Minesweeper](https://onlinejudge.org/external/101/10189.pdf) | [UVa 11349 - Symmetric Matrix](https://onlinejudge.org/external/113/11349.pdf) | [UVa 11450 - Wedding Shopping](https://onlinejudge.org/external/114/11450.pdf) | [UVa 10405 - Longest Common Subsequence](https://onlinejudge.org/external/104/10405.pdf) | [LeetCode: 63. - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [LeetCode: 1143. - Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |
 | 14 | 2026/05/26 | Heaps + seat reservation + set | [LeetCode: 1046. – Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [LeetCode: 1845. – Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/) | [UVa 10252 - Common Permutation](https://onlinejudge.org/external/102/10252.pdf) | [UVa 10041 – Vito’s Family](https://onlinejudge.org/external/100/10041.pdf) | [UVa 10954 - Add All](https://onlinejudge.org/external/109/10954.pdf) | [UVa 11286 - Conformity](https://onlinejudge.org/external/112/11286.pdf) | [LeetCode: 703. - Kth Largest in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [LeetCode: 347. - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |
-| 15 | 2026/06/02 | Intervals + booking | [LeetCode: 228. - Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | [LeetCode: 56. - Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [UVa 12405 – Scarecrow](https://onlinejudge.org/external/124/12405.pdf) | [UVa 11292 - Dragon of Loowater](https://onlinejudge.org/external/112/11292.pdf) | [UVa 12356 - Army Buddies](https://onlinejudge.org/external/123/12356.pdf) | [UVa 10020 - Minimal coverage](https://onlinejudge.org/external/100/10020.pdf) | [LeetCode: 1893. Range Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/description/) | [LeetCode: 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |
+| 15 | 2026/06/02 | Greedy: Intervals + booking | [LeetCode: 228. - Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | [LeetCode: 56. - Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [UVa 12405 – Scarecrow](https://onlinejudge.org/external/124/12405.pdf) | [UVa 11292 - Dragon of Loowater](https://onlinejudge.org/external/112/11292.pdf) | [UVa 12356 - Army Buddies](https://onlinejudge.org/external/123/12356.pdf) | [UVa 10020 - Minimal coverage](https://onlinejudge.org/external/100/10020.pdf) | [LeetCode: 1893. Range Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/description/) | [LeetCode: 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |
 | 16 | 2026/06/09 | Final Exam | [Refer to Final Exam Section](#final) ||||||||
-| 17 | 2026/06/16 | Greedy + arrangement | — | — | — | — | — | — | — | — |
+| 17 | 2026/06/16 | Greedy: arrangement | — | — | — | — | — | — | — | — |
 | 18 | 2026/06/23 | Dynamic programming (post-final consolidation) | — | — | — | — | — | — | — | — |
 
 ## Midterm
@@ -47,7 +47,14 @@ The midterm takes place in Week 8.
 The final exam will take place in Week 16.
 
 ### Regular Problems (30 points each)
- - TBD
+1.	[UVa 11349 - Symmetric Matrix](https://onlinejudge.org/external/113/11349.pdf)
+2.	[UVa 11034 - Ferry Loading IV](https://onlinejudge.org/external/110/11034.pdf)
+3.	[UVa 10611 - The Playboy Chimp](https://onlinejudge.org/external/106/10611.pdf)
+4.	[UVa 10282 - Babelfish](https://onlinejudge.org/external/102/10282.pdf)
+
 
 ### Bonus Problems (40 points each)
- - TBD
+5.	[UVa 442 - Matrix Chain Multiplication](https://onlinejudge.org/external/4/442.pdf)
+6.	[UVa 12049 - Just Prune The List](https://onlinejudge.org/external/120/12049.pdf)
+7.	[UVa 10821 - Constructing BST](https://onlinejudge.org/external/108/10821.pdf)
+8.	[UVa 12250 - Language Detection](https://onlinejudge.org/external/122/12250.pdf)

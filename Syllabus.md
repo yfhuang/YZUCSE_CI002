@@ -35,9 +35,9 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 | 12 | 2026/05/12 | Complete binary tree indexing + binary search tree intro |
 | 13 | 2026/05/19 | 2D array + weak dynamic programming ramp |
 | 14 | 2026/05/26 | Heaps + seat reservation + set |
-| 15 | 2026/06/02 | Intervals + booking |
+| 15 | 2026/06/02 | Greedy: Intervals + booking |
 | 16 | 2026/06/09 | Final Exam |
-| 17 | 2026/06/16 | Greedy + arrangement |
+| 17 | 2026/06/16 | Greedy: arrangement |
 | 18 | 2026/06/23 | Dynamic programming (post-final consolidation) |
 
 ## Problem Set
